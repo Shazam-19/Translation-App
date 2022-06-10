@@ -2,7 +2,7 @@
 
 ## Before You Run the App
 
-1. Make sure that you'av registered for an IBM Cloud account through this link (https://cloud.ibm.com/registration)
+1. Make sure that you'av registered for an IBM Cloud account through this [link](https://cloud.ibm.com/registration)
 2. Install IBM Watson SDK(software development kit)
    Open an Anaconda Prompt (Windows; open as Administrator), Terminal (maxOS/Linux) or shell (Linux), then execute the following command:
    `pip install ibm_watson`
