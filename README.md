@@ -17,11 +17,11 @@
    1. Create a Service Instance:
       In each link you will find the default plan ***Lite***, and on the right bottom of the page click **Create**.
       
-      *Speech to Text* (https://console.bluemix.net/catalog/services/speech-to-text)
+      - [*Speech to Text*](https://console.bluemix.net/catalog/services/speech-to-text)
       
-      *Text to Speech* (https://console.bluemix.net/catalog/services/text-to-speech)
+      - [*Text to Speech*](https://console.bluemix.net/catalog/services/text-to-speech)
       
-      *Language Translator* (https://console.bluemix.net/catalog/services/language-translator)
+      - [*Language Translator*](https://console.bluemix.net/catalog/services/language-translator)
       
    2. Get your Service Credentials:
       To see you API key and url, click **Manage** at the top-left of the page. To the right of **Credentials**, click **Show credentials**, 
